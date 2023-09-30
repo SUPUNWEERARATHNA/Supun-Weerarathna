@@ -1,4 +1,4 @@
-# Supun-Weerarathna
+# Supun Piyumal Weerarathna
 <h1 align="center">Hi I'm Supun Weerarathna</h1>
 <h3 align="center">A passionate frontend developer and Graphic designer from Sri Lanka</h3>
 <img 
